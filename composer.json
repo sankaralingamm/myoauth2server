@@ -1,0 +1,16 @@
+{
+    "require": {
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.6",
+        "nyholm/psr7": "^1.5",
+        "nyholm/psr7-server": "^1.0",
+        "guzzlehttp/psr7": "2",
+        "laminas/laminas-diactoros": "^2.24",
+        "league/oauth2-server": "^8.4",
+        "doctrine/orm": "^2.14",
+        "symfony/cache": "^6.2",
+        "doctrine/annotations": "^2.0",
+        "psr/http-message": "^1.0",
+        "php-http/message": "^1.13"
+    }
+}
